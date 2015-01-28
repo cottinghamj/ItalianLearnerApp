@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1414217796 source:c:\users\jarian\desktop\all c++ code\studio code\associativecontainersii\italianlearner\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+
+1414391752 source:c:\users\jarian\desktop\all c++ code\italianlearner\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	"ItalHead.h"
+
+1414519490 c:\users\jarian\desktop\all c++ code\italianlearner\italhead.h
+
